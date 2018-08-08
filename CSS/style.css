@@ -1,0 +1,13 @@
+.flex-center{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+#bordure{
+    border: 1px solid black;
+    Width: 29%;
+    height: 50px;
+    float: left;
+    margin:2%;
+}
+
